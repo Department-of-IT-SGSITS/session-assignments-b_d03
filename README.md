@@ -2,7 +2,9 @@
 A cloud-based digital bus pass system with QR code validation and admin analytics.
 
 ## 🌐 Live Demo
-**Live Project URL:** [http://bus-pass-finallll.s3-website.ap-south-1.amazonaws.com](http://bus-pass-finallll.s3-website.ap-south-1.amazonaws.com)
+Live Project Link
+[Live Project URL](https://smart-bus-pass-system.s3.ap-south-1.amazonaws.com/index.html)
+
 
  Features
 - User Registration & Login
