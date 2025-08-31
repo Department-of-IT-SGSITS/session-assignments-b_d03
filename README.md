@@ -21,7 +21,8 @@ A cloud-based digital bus pass system with QR code validation and admin analytic
 
 
 👥 Team Members
-- Komal Jatiya (Solo Project)
+- Komal Jatiya
+- Khushi Soni
 
 ## 📅 Submission Date
  31 September 2025
